@@ -16,7 +16,13 @@ Kodluyoruz Front-End kapsamında açtığım ilk repo. İçerisinde bir adet Rea
 
   cd kodluyoruzilkrepo code .
   ```
-  
+
   ## Contributing
 
+  ![Proje ss][def]
+
+
   
+
+
+[def]: C:\Users\eebal\OneDrive\Belgeler\sites\görsel
