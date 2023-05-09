@@ -3,18 +3,20 @@ Kodluyoruz Front-End kapsamında açtığım ilk repo. İçerisinde bir adet Rea
 
 ## Installation
  
- '''
+ ```python
+ 
+ ```
  git clone https://github.com/emrebalahor/kodluyoruzilkrepo.git
 
- '''
+```
  ## Usage
 
  Linux için
 
-  '''
+  ```
   cd kodluyoruzilkrepo code .
 
-  '''
+  ```
   ## Contributing
 
   
