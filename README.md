@@ -19,10 +19,9 @@ Kodluyoruz Front-End kapsamında açtığım ilk repo. İçerisinde bir adet Rea
 
   ## Contributing
 
-  ![Proje ss][def]
+  ![Proje ss](https://drive.google.com/drive/folders/1EVkr7HFU1ONa22D_jPTaqtd6af9IkRYz?usp=share_link)
 
 
   
 
 
-[def]: C:\Users\eebal\OneDrive\Belgeler\sites\görsel
